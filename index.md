@@ -9,7 +9,7 @@ License verification for ASBL is available for ASBL V4 and upper versions. To ve
 > In case you are a developer and you the verification site is not existing, note that you also need to wait till your product is reviewed and verified by license reviewers.
 
 # Get A License
-1. Get a `License ID` for the license.
+1. [Get a `License ID` for the license.](https://github.com/Attachment-Studios/ASBL/blob/gh-pages/index.md#using-discord)
 2. Download the `ASBL App` in a supported platform.
 3. Start the downloaded app.
 4. Fill required details.
@@ -17,6 +17,7 @@ License verification for ASBL is available for ASBL V4 and upper versions. To ve
 
 # Getting A License ID
 > Current methods of getting a license id requires [Discord](https://discord.com).
+
 ## Using Discord
 1. (If Not) Go to [Discord](https://discord.com)'s official website and create an account.
 2. (If Not) Once created login to the account.
